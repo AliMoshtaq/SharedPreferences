@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SharedPreferences</string>
+    <string name="username">Username</string>
+    <string name="userEmail">Email</string>
+    <string name="btn_save">Save</string>
+    <string name="btn_load">Load</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="enter_email">Enter Email</string>
+</resources>
